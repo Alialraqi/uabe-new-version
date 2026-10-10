@@ -4,7 +4,7 @@
 
 A Unity AssetBundle viewer and editor for iPhone and iPad. Open a bundle, browse every object inside it, preview textures, meshes and audio, and replace them with your own files. Everything runs on the device, no server and no computer needed.
 
-It is an iOS port of [UABE-Android](https://github.com/elfilibusterismo/UABE-Android): the interface is rewritten in SwiftUI and the engine is [UnityPy](https://github.com/K0lb3/UnityPy) running inside an embedded CPython.
+the interface is rewritten in SwiftUI and the engine is [UnityPy](https://github.com/K0lb3/UnityPy) running inside an embedded CPython.
 
 ## Features
 
@@ -112,9 +112,9 @@ tests/      backend tests
 
 ## Credits
 
-Based on [UABE-Android](https://github.com/elfilibusterismo/UABE-Android). Built with UnityPy, Texture2DDecoder, etcpak, astc-encoder, libogg, libvorbis, python-fsb5, BeeWare's Python-Apple-support and XcodeGen. Licenses are listed in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+UnityPy, Texture2DDecoder, etcpak, astc-encoder, libogg, libvorbis, python-fsb5, BeeWare's Python-Apple-support and XcodeGen. Licenses are listed in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
 
-Developer: [@frezcode on TikTok](https://www.tiktok.com/@frezcode)
+Developer: [@frezcode on TikTok](https://www.tiktok.com/@frezcode) and [@eurfex999) 
 
 Use this tool only on files you own or have permission to modify.
 
